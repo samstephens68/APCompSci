@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=prime
+comment1.params=lowerBound\ upperBound\ primes\ numOfPrimes
+comment1.target=prime(int,\ int,\ java.util.ArrayList,\ int)
+comment2.params=
+comment2.target=void\ findPrimes()
+comment3.params=
+comment3.target=void\ displayPrimes()
+numComments=4

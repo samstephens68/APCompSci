@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=musicTester3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ musicTester1\ here.\r\n\r\n\ @author\ Sam\ Stephens\r\n\ @version\ 3.24.20\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=songs\ artist\ low
+comment10.target=void\ linearPrintArtist(Music[],\ java.lang.String,\ int)
+comment2.params=a
+comment2.target=void\ printSongs(Music[])
+comment3.params=songs
+comment3.target=void\ sortTitle(Music[])
+comment4.params=songs
+comment4.target=void\ sortYear(Music[])
+comment5.params=songs
+comment5.target=void\ sortArtist(Music[])
+comment6.params=songs\ title
+comment6.target=int\ searchByTitle(Music[],\ java.lang.String)
+comment7.params=songs\ year
+comment7.target=void\ searchByYear(Music[],\ int)
+comment8.params=songs\ year\ low
+comment8.target=void\ linearPrintYear(Music[],\ int,\ int)
+comment9.params=songs\ artist
+comment9.target=void\ searchByArtist(Music[],\ java.lang.String)
+numComments=11

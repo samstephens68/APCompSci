@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Terrain
+comment1.params=l\ w
+comment1.target=Terrain(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTerrainSize()
+numComments=3

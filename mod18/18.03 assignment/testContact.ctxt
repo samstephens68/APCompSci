@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=testContact
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ testContact\ here.\r\n\r\n\ @author\ Sam\ Stephens\r\n\ @version\ 3.25.20\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=list\ email
+comment10.target=int\ sequentialEmail(Contact[],\ java.lang.String)
+comment2.params=list
+comment2.target=void\ printTable(Contact[])
+comment3.params=list
+comment3.target=void\ sortName(Contact[])
+comment4.params=list
+comment4.target=void\ sortRelation(Contact[])
+comment5.params=list\ name
+comment5.target=int\ binaryName(Contact[],\ java.lang.String)
+comment6.params=list\ relation
+comment6.target=void\ binaryRelation(Contact[],\ java.lang.String)
+comment7.params=list\ relation\ low
+comment7.target=void\ linearPrintRelation(Contact[],\ java.lang.String,\ int)
+comment8.params=list\ month
+comment8.target=int\ sequentialMonth(Contact[],\ java.lang.String)
+comment9.params=list\ number
+comment9.target=int\ sequentialNumber(Contact[],\ java.lang.String)
+numComments=11

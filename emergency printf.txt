@@ -1,0 +1,47 @@
+Running a dynamic dns client(ddclient), that shows success on host end as updating @.(mysite).com, but the site is not updating the ip address. In addition, the synthetic record responsible for ddns does not seem to include information in the "data" field. //print results
+        System.out.print("Boat's Direction(degrees)\tBoats's Heading\n");
+        System.out.printf("%-4d", directionL);
+        System.out.print("\t\t\t\t");
+        System.out.printf("%4.5s%n", boats[0].findHeading(directionL));
+        System.out.print("Boat Speed\tExpected Travel Time\n");
+        System.out.printf("%-4.2f", speedL);
+        System.out.printf("%17.2f", boats[0].expectedTime(speedL));
+        System.out.print("\n");
+               
+        System.out.print("Boat's Direction(degrees)\tBoats's Heading\n");
+        System.out.printf("%-4d", directionH);
+        System.out.print("\t\t\t\t");
+        System.out.printf("%4.5s%n", boats[1].findHeading(directionH));
+        System.out.print("Boat Speed\tExpected Travel Time\n");
+        System.out.printf("%-4.2f", speedH);
+        System.out.printf("%17.2f", boats[1].expectedTime(speedH));
+        System.out.print("\n");  
+        
+        System.out.print("Boat's Direction(degrees)\tBoats's Heading\n");
+        System.out.printf("%-4d", directionS);
+        System.out.print("\t\t\t\t");
+        System.out.printf("%4.5s%n", boats[2].findHeading(directionS));
+        System.out.print("Boat Speed\tExpected Travel Time\n");
+        System.out.printf("%-4.2f", speedS);
+        System.out.printf("%17.2f", boats[2].expectedTime(speedS));
+        System.out.print("\n");
+        
+        System.out.print("Boat's Direction(degrees)\tBoats's Heading\n");
+        System.out.printf("%-4d", directionS);
+        System.out.print("\t\t\t\t");
+        System.out.printf("%4.5s%n", boats[2].findHeading(directionS));
+        System.out.print("Boat Speed\tExpected Travel Time\n");
+        System.out.printf("%-4.2f", speedS);
+        System.out.printf("%17.2f", boats[2].expectedTime(speedS));
+        System.out.print("\n");
+        
+        System.out.print("Boat's Direction(degrees)\tBoats's Heading\n");
+        System.out.printf("%-4d", directionS);
+        System.out.print("\t\t\t\t");
+        System.out.printf("%4.5s%n", boats[2].findHeading(directionS));
+        System.out.print("Boat Speed\tExpected Travel Time\n");
+        System.out.printf("%-4.2f", speedS);
+        System.out.printf("%17.2f", boats[2].expectedTime(speedS));
+        System.out.print("\n");
+    }//end main method}
+}

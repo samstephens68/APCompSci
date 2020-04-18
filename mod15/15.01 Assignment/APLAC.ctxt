@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=APLAC
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ APLAC\ here.\r\n\r\n\ @author\ Sam\ Stephens\r\n\ @version\ 2/24/20\r\n
+comment1.params=
+comment1.target=APLAC()
+comment2.params=pages
+comment2.target=void\ setAssignment(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Homework4
+comment0.text=\r\n\ Abstract\ class\ Homework\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ Sam\ Stephens\r\n\ @version\ 2/24/20\r\n
+comment1.params=numOfPages
+comment1.target=Homework4(int)
+comment2.params=p
+comment2.target=void\ setPages(int)
+comment3.params=
+comment3.target=int\ getPages()
+comment4.params=pages
+comment4.target=void\ setAssignment(int)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=homework
+comment6.target=int\ compareTo(Homework4)
+numComments=7

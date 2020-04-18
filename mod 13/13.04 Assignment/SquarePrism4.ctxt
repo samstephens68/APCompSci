@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SquarePrism4
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SquarePrism4\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=l\ w\ h
+comment1.target=SquarePrism4(int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

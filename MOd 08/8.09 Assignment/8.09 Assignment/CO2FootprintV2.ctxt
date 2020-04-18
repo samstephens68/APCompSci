@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CO2FootprintV2
+comment0.text=\r\n\ @author\ Sam\ Stephens\r\n\ @version\ 12/13/19\r\n
+comment1.params=gallons
+comment1.target=CO2FootprintV2(double)
+comment1.text=\r\n\ constructor\ for\ objects\ of\ type\ CO2FootprintV2\r\n
+comment2.params=
+comment2.target=void\ calcTonsCO2()
+comment2.text=\r\n\ mutator\ method\ to\ calculate\ and\ return\ the\ tons\ of\ CO2\ emitted\r\n\ @param\ myGallonsUsed\r\n\ converts\ gallons\ of\ gas\ used\ to\ tons\ of\ CO2\r\n\ myGallonsUsed\ requires\ a\ value\ so\ a\ constructor\ needs\ to\ be\ initialized**\r\n
+comment3.params=
+comment3.target=void\ convertTonsToPounds()
+comment3.text=\r\n\ method\ to\ convert\ tons\ of\ co2\ to\ pounds\r\n\ @param\ myTonsCO2\r\n\ Precondition\:\ calcTonsCO2\ must\ have\ been\ run\r\n\ multiplied\ by\ the\ tons/pounds\ multiplier\r\n
+comment4.params=
+comment4.target=double\ getGallons()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ gallons\ of\ gas\ used\r\n\ @param\ myGallonsUsed\r\n\ @return\ the\ number\ of\ gallons\ used\r\n\ Precondition\:\ myGallons\ has\ a\ value\r\n
+comment5.params=
+comment5.target=double\ getTonsCO2()
+comment5.text=\r\n\ Accessor\ method\ to\ return\ the\ tons\ of\ CO2\ emitted\r\n\ @param\ myTonsCO2\r\n\ @return\ tons\ of\ CO2\ produced\r\n\ Precondition\:\ myTonsCO2\ has\ been\ initialized\r\n
+comment6.params=
+comment6.target=double\ getPoundsCO2()
+comment6.text=\r\n\ getter\ method\ that\ returns\ the\ pounds\ of\ CO2\ emitted\r\n\ @param\ myPoundsCO2\r\n\ @return\ pounds\ of\ CO2\ emitted\r\n
+numComments=7

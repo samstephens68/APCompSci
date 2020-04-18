@@ -1,0 +1,127 @@
+BlueJ run started: Thu Mar 05 19:48:27 EST 2020
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Users\Murph\Downloads\BlueJ-windows-421\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Murph\Desktop\AP Comp Sci\mod15\15.07 Picture Lab\pixLab\classes
+1583455710260: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (The system cannot find the file specified)
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sat Mar 07 10:54:37 EST 2020
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Users\Murph\Downloads\BlueJ-windows-421\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Murph\Desktop\AP Comp Sci\mod15\15.07 Picture Lab\pixLab\classes
+1583596479068: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sun Mar 08 12:11:50 EDT 2020
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Users\Murph\Downloads\BlueJ-windows-421\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Murph\Desktop\AP Comp Sci\mod15\15.07 Picture Lab\pixLab\classes
+1583683912973: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Thu Mar 12 11:12:59 EDT 2020
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Users\Murph\Downloads\BlueJ-windows-421\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Murph\Desktop\AP Comp Sci\mod15\15.07 Picture Lab\pixLab\classes
+1584025987598: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Exception in thread "Thread-2" java.lang.NullPointerException
+====
+
+====
+BlueJ run started: Sun Mar 15 18:01:19 EDT 2020
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Users\Murph\Downloads\BlueJ-windows-421\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Murph\Desktop\AP Comp Sci\mod16\16.06 Picture Lab\pixLab\classes
+1584309680899: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Tue Mar 17 11:51:54 EDT 2020
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Users\Murph\Downloads\BlueJ-windows-421\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Murph\Desktop\AP Comp Sci\mod16\16.06 Picture Lab\pixLab\classes
+1584460316279: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Thu Mar 19 18:07:20 EDT 2020
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Users\Murph\Downloads\BlueJ-windows-421\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Murph\Desktop\AP Comp Sci\mod16\16.06 Picture Lab\pixLab\classes
+1584655642148: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Thu Mar 19 23:44:42 EDT 2020
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Users\Murph\Downloads\BlueJ-windows-421\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Murph\Desktop\AP Comp Sci\mod16\16.06 Picture Lab\pixLab\classes
+1584675884000: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.

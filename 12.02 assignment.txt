@@ -1,0 +1,21 @@
+I used the principle of recursion in my image to continue to add things to the design
+until I felt that it was finished. Every time that I added something it needed to fall
+within all of the parameters of Mondrian art, so it became more complicated as time went
+on.
+
+
+If I were to design a program to produce Mondrian art, I might start by allowing the user
+to select the complexity of the image they wanted to produce. This would tell the program
+how many times it needed to call the function responsible for drawing lines or adding color.
+Each time the function to add lines ran, it would check to make sure it drew them at either
+90 degree angles or parallel to what had been drawn already. When it was finished drawing,
+it would add color using the random class until it was at a 2:1 ratio with whitespace.
+
+In my opinion, the programmer should receive credit for computer art until computers are
+much more advanced than they are now. Programmers still need to define the parameters for
+the art that is made, so computers are never really "innovating" outside of what programmers
+had intended. When computer programs can decide what art that they want to produce on their
+own, possibly from them comparing human art and making their own parameters, they can
+receive the credit. I wouldn't consider machine learning to be artificial intelligence yet,
+but maybe as more sophisticated forms of ai become available this will be  possibility.
+

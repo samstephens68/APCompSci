@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=fibonacciTester
+comment1.params=
+comment1.target=fibonacci()
+comment2.params=num
+comment2.target=int\ getNumber(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

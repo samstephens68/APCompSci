@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=orange
+comment0.text=\r\n\ This\ program\ calculates\ the\ distance\ a\ projectile\ will\ travel\r\n\r\n\ @author\ Sam\ Stephens\r\n\ @version\ 1/6/20\r\n
+comment1.params=launchSpeed\ degrees\ gravity
+comment1.target=orange(double[],\ double[],\ double)
+comment2.params=
+comment2.target=void\ calcDistances()
+comment3.params=
+comment3.target=double[][]\ getDistances()
+numComments=4
